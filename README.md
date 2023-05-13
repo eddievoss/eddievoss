@@ -4,7 +4,7 @@ I am a Computer Science student with a specialization in Robotics and Intelligen
 
 ## 🌱 Currently Learning
 
-- Algoritms
+- Algorithms
 - Machine Learning
 - Computer Vision
 - Computer Graphics
