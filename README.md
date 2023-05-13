@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Eddie Voss
+# Hi there, I'm Eddie Voss 👋
 
 I am a Computer Science student with a specialization in Robotics and Intelligent Systems currently studying at Colorado School of Mines with expected graduation in December 2024. My passion for robotics and intelligent systems drives me to learn and explore new technologies and concepts every day. I am an enthusiastic problem-solver and love to collaborate with others to develop creative solutions.
 
