@@ -12,7 +12,7 @@ I am a Computer Science student with a specialization in Robotics and Intelligen
 ## 💻 Skills
 
 - Programming Languages: Python, C, C++, Java, RISC-V assembly
-- Tools/Frameworks: Git
+- Tools/Frameworks: Git, ROS, Docker
 
 ## 📫 How to reach me:
 
